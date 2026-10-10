@@ -1,0 +1,19 @@
+# Object files
+*.o
+
+# Static and shared libraries
+*.a
+*.so
+*.so.*
+
+# Compiled executables
+prac_06/calc_test
+prac_06/calc_static
+prac_06/calc_shared
+prac_06/calc_dynamic
+prac_07/calc_make
+
+# Editor temporary files
+*~
+*.swp
+*.swo

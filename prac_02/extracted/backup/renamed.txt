@@ -1,0 +1,6 @@
+Linux is useful
+I study Bash
+Hello Linux
+apple
+banana
+12345
