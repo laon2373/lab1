@@ -17,3 +17,15 @@ prac_07/calc_make
 *~
 *.swp
 *.swo
+
+# Exercise 9-11 executables
+prac_09/calc_gdb
+prac_10/assert_test
+prac_10/my_assert_test
+prac_10/my_assert_ndebug
+prac_11/calc_gprof
+
+# Profiling and core dump files
+gmon.out
+core
+core.*
